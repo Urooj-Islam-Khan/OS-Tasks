@@ -1,5 +1,5 @@
 
-# Operating Systems Theory
+# Operating Systems Theory Notes By Urooj Islam
 
 ## 1. Introduction to Operating Systems
 
